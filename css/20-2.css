@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    font-size:14px;
+}
+
+a{
+    font-size:14px;
+    text-decoration: none;
+}
+
+.menu{
+    width:210px;
+    margin:50px auto;
+}
+
+.menu p{
+    color:#fff;
+    height:36px;
+    cursor:pointer;
+    line-height:36px;
+    background: #2980b9;
+    padding-left:5px;
+    border-bottom:1px solid #ccc;
+}
+
+.menu div ul{
+    display:none;
+    list-style: none;
+}
+
+.menu li{
+    height:33px;
+    line-height:33px;
+    padding-left:5px;
+    background: #eee;
+    border-bottom:1px solid #ccc;
+}
